@@ -1,0 +1,12 @@
+var num1 = 16.765;
+console.log(num1);
+num1 = num1.toFixed(2);
+var num2 = 12.37982;
+console.log(num2);
+num2 = num2.toFixed(2);
+var num3 = -9.3079499;
+console.log(num3);
+num3 = num3.toFixed(4);
+console.log(num1);
+console.log(num2);
+console.log(num3);
